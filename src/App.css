@@ -1,0 +1,88 @@
+.admin-table{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 4rem 0;
+}
+.admin-subtitle{
+/* text-align: center; */
+  font-size: 2.4rem;
+}
+.btn-delete{
+  border: none;
+  background-color: transparent;
+  display: flex;
+  margin-left: auto;
+  align-items: end;
+  text-align: center;
+  justify-content: right;
+}
+.btn-Update{
+  border: none;
+  background-color: transparent;
+  display: flex;
+  margin-left: auto;
+  align-items: left;
+}
+
+.delete-icon{
+ font-size: 2.6rem;
+ color: green;
+ filter: drop-shadow(0.2rem 0.2rem 0.5rem rgb(255 0 0 /0.2));
+ cursor: pointer;
+ margin-bottom: 25px;}
+  
+.Clear_button{
+  display: flex;
+  text-decoration: none;
+  margin-left: auto;
+  align-items: end;
+  background-color: green;
+  text-align: center;
+  color: white;
+  justify-content: right;
+
+
+}
+.StudentsCrudBtn{
+  display: flex;
+  text-decoration: none;
+  /* width: 100%; */
+  /* margin: auto; */
+  /* align-items: center; */
+  background-color: green;
+  /* text-align: center; */
+  color: white;
+  /* justify-content: center; */
+  /* margin-top: 30px; */
+}
+.LinkColor{
+  text-decoration: none;
+}
+.Heading-name{
+  color: green;
+  font-size: 2.5rem ;
+  text-align: center;
+   margin-top: 30px;
+}
+
+.colorButton{
+  background-color: green;
+  color: white;
+  width: 35%;
+  margin: 4px;
+}
+.colorButtonBack{
+  background-color: red;
+  color: white;
+  width: 35%;
+  margin: 4px;
+}
+.fontColor{
+color: green;
+}
+.mainDiv{
+border-radius: 60px !important;
+}
+
+
